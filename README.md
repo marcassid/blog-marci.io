@@ -1,1 +1,1 @@
-# blog-marci.io
+# blog.marci.io
